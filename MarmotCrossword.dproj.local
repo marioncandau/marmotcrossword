@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/04/23 18:37:47.000.975,=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/04/23 18:40:51.000.282,C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\MainForm.pas=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/04/23 18:40:51.000.282,C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\MainForm.fmx=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Unit1.fmx</Transaction>
+    <Transaction>2019/04/24 09:59:46.000.641,C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\CrossWord.dproj=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2019/04/24 10:00:19.000.762,=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\Unit1.pas</Transaction>
+    <Transaction>2019/04/24 10:00:42.000.179,C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\Word.pas=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\Unit1.pas</Transaction>
+    <Transaction>2019/04/24 10:06:15.000.634,=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\Unit1.pas</Transaction>
+    <Transaction>2019/04/24 10:06:29.000.049,C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\WordList.pas=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\Unit1.pas</Transaction>
+    <Transaction>2019/04/24 11:31:52.000.060,C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\CrossWord2.dproj=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\CrossWord.dproj</Transaction>
+    <Transaction>2019/04/24 17:42:22.000.408,C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\Marmot.dproj=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\CrossWord2.dproj</Transaction>
+    <Transaction>2019/04/24 17:48:49.000.442,C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\MarmotCrossword.dproj=C:\Users\Marion\Documents\Embarcadero\Studio\Projets\Crossword\Marmot.dproj</Transaction>
+    <Transaction>2019/08/11 15:44:15.000.895,=C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 15:44:37.000.890,C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\Unit1.pas=C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\TMCProject.pas</Transaction>
+    <Transaction>2019/08/11 15:45:05.000.051,C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\TMCProject.pas=C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\MCProject.pas</Transaction>
+    <Transaction>2019/08/11 16:10:30.000.905,=C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\Unit2.pas</Transaction>
+    <Transaction>2019/08/11 16:12:33.000.251,C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\Unit2.fmx=C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\About.fmx</Transaction>
+    <Transaction>2019/08/11 16:12:33.000.251,C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\Unit2.pas=C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\About.pas</Transaction>
+    <Transaction>2020/05/13 17:01:39.000.237,C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\MainForm.pas=</Transaction>
+    <Transaction>2020/05/13 17:01:46.000.807,=C:\Users\mario\OneDrive\Documents\Embarcadero\Studio\Projets\Crossword\MainForm.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-analytics-v2.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="google-play-services.dex.jar"/>
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-analytics-v2.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="google-play-services.dex.jar"/>
+    <File Path="About.pas"/>
+    <File Path="About.fmx"/>
+    <File Path="MCProject.pas"/>
+    <File Path="Word.pas"/>
+    <File Path="WordList.pas"/>
+    <File Path="MainForm.pas"/>
+    <File Path="MainForm.fmx"/>
+  </ProjectSortOrder>
+</BorlandProject>
