@@ -15,3 +15,5 @@ Ensuite, on arrive sur la grille générée. On peut:
 - exporter comme image
 
 Dans le menu, on peut sauvegarder notre grille pour la réouvrir plus tard. 
+
+![Grille générée](images/CaptureCrossword.PNG)
